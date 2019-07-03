@@ -1,0 +1,49 @@
+Question Answer Pairs for VQA
+
+Cooking recipe questions need to be those with increase your understanding of task
+. Ingredients
+. Order of ingredients
+. Usage of Ingredients
+. Appearance 
+
+
+Order of a subtask
+Usage of components/Objects
+Usage of ingredient
+Detection of components/Objects
+How is subtask done ? 
+
+
+What did the person do with this ingredient ? (Visual, Audio and Text)
+	Example - Q : What is done with the marinated chicken ? 
+			Ans : Marinated chicken is fried in oil 			
+
+What is done(subtask) after this step in the recipe ? (Visual, Audio and Text)
+	Example - Q : What is done after the tofu is cut ?
+			Ans : Its added in boiling water with salt.
+
+What objects are used in specific subtask of receipe ? (Visual mostly)
+	Example - Q : What is used for mixing spices and flour with the shredded potato ?
+			Ans : A whisker is used to blend first and then a spatula is used to mix it well.
+
+How is a particular subtask done ? (Visual, Audio and Text)
+	Example - Q : How is chicken marinated 
+			Ans : Mixing the chicken with soy sauce, egg, salt and corn flour. (If the answer has a longer number(> 4) of ingredeints, avoid it) 
+	Example - Q : How is starch removed from potato 
+			Ans : Plating shredded potato pieces in cold water and then squeezing out water from it.
+
+Duration of subtask (Audio and text)
+	Example - Q : How long is the chicken simmered in sauce before adding cheese ? 
+			Ans : It is simmered for 10 minutes
+
+When is a specific ingredient added (order in terms of subtask) (Visual, Audio and Text)
+	Example - Q : When is spaghetti sauce added in the pan ? 
+			Ans : Spaghetti sauce is added after the chickn has been fried.
+
+Why does the person do a particular step (Audio mostly)
+	Example - Q : Why is water drained out from shredded potato ? 
+			Ans : Water is drained to remove starch from the potato.
+
+Why	is a specific object used ? (Visual and Audio)
+	Example - Q : Why is rolling pin used ? 
+			Ans : It is used to flatten the shredded potato mixture.

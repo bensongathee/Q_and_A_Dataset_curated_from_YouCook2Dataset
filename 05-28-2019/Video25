@@ -1,0 +1,80 @@
+3 mins video https://www.youtube.com/watch?v=Gs3OGfQbPjc
+
+Object, Action, Duration, Task Order
+
+What is the big bowl used for?
+Action
+Audio-0
+The ingredients are mixed in the big bowl to make the batter
+
+Options:
+The ingredients are mixed in the big bowl to make dough
+The big bowl is used to fetch water
+The big bowl is used to make soup
+The ingredients are mixed in the big bowl to make fruit juice
+
+How is the whisk used?
+Action
+Audio-0
+The whisk is used to mix the ingredients in the bowl
+
+Options:
+The whisk is used to flip the onions in the frying pan
+The whisk is used to coat the onion rings with bread crumbs
+The whisk is used to cut the onions
+The whisk is used to make dough 
+
+When is the knife used?
+Task Order
+Audio-0
+The knife is used immediately after mixing the ingredients in the big bowl 
+
+Options:
+The knife is used immediately after cutting the onions
+The knife is used before cutting the onions
+The knife is used immediately after frying the onions
+The knife is used after coating the onions rings 
+
+Where do we cut the onions on?
+Object
+Audio-0
+We cut the onions on a cutting board
+
+Options:
+We cut the onions on the floor
+We cut the onions on the table
+We cut the onions on a cooking pot
+We cut the onions on a plate
+
+Why do we need the bread crumbs?
+Action
+Audio-0
+The bread crumbs are used to coat the onion rings
+
+Options:
+The bread crumbs are used to make batter
+The bread crumbs are used to make dough
+The bread crumbs are used to coat the chicken
+The bread crumbs are used to coat the beef
+
+When do we fry the onion rings on the frying pan?
+Task Order
+Audio-0
+We fry the onion rings immediately after coating them with bread crumbs
+
+Options:
+We fry the onion rings immediately after cutting the onions
+We fry the onion rings immediately after mixing the ingredients on the bowl
+We fry the onion rings immediately after frying the onion rings
+We fry the onion rings before cutting the onions
+
+Why do we need the tongs for?
+Action
+Audio-0
+We need the tongs to flip the onion rings to cook
+
+Options:
+We need the tongs to flip the chicken
+We need the tongs to make dough
+We need the tongs to make batter
+We need the tongs to cut the onions
