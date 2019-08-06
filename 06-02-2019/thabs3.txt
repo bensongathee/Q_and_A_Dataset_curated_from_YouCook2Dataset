@@ -1,0 +1,75 @@
+﻿9 mins video - https://www.youtube.com/watch?v=_mL1gihKDw0
+
+Object, Action, Duration, Task Order
+
+When do you turn over the cabbage soaked in rock salt and water solution?
+Task Order 
+Turn over the soaked cabbage after four hours each side 
+
+Options:
+Turn over the soaked cabbage after three hours
+Turn over the soaked cabbage after two hours
+Turn over the soaked cabbage two times after one hour for every side
+Turn over the soaked cabbage three times each side for two hours
+
+
+When do you rub the kimchi paste on the cabbage?
+Task Order 
+Rub the kimchi paste on the cabbage when you are done mixing up the paste 
+
+Options: 
+Rub the kimchi paste on the cabbage after preparing the paste 
+Rub the kimchi paste on the cabbage before eating
+Rub the kimchi paste on the cabbage when eating
+Rub the kimchi paste on the cabbage after adding chilli in the paste
+
+
+What is used to pour sauces and puree in the dish?
+Object 
+A quarter cup is used to pour sauces and puree in the dish
+
+Options:
+A tablespoon is used to pour sauces and puree in the dish
+A scooping spoon is used to pour sauces and puree in the dish
+A teaspoon is used to pour sauces and puree in the dish
+A pan is used to pour sauces and puree in the dish
+
+
+What is the use of the warm water added in the stride fish?
+Action
+The warm water is used to moisten the stride fish and dried con
+
+Options:
+The warm water is used to moisten the cabbage
+The warm water is used to soak the stride fish
+The warm water is used to soak the cabbage
+The warm water is used to cook the stride fish
+
+
+What is the use of the bowl?
+Action 
+The bowl is used to prepare the kimchi paste
+
+Options:
+The bowl is used to soak the cabbage
+The bowl is used to soak the dried corn
+The bowl is used to soak the stride fish
+The bowl is used to put vegetable purees 
+
+What is used to cut the cabbage?
+Object 
+A knife is used to cut the cabbage
+
+Options:
+A scissors is used to cut the cabbage
+A sandwich spreader is used to cut the cabbage
+A fork is used to cut the cabbage 
+A spoon is used to cut the cabbage
+
+
+
+
+
+
+
+

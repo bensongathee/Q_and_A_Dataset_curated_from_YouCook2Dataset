@@ -1,0 +1,119 @@
+﻿﻿﻿﻿﻿3 mins video - https://www.youtube.com/watch?v=cCAct_Q8QTw
+
+
+Object Action Duration Task Order
+
+
+What amount of elbow pasta is required?
+
+
+Action
+
+
+100g of elbow pasta is required 
+
+
+Options:
+2 kg of elbow pasta is required
+4 kg of elbow pasta is required
+6 kg of of elbow pasta is required
+8 kg of elbow pasta is required
+
+
+How should be the tomato be cut ?
+
+
+Action 
+
+
+The tomato should be finely chopped 
+
+
+Options:
+The tomato should be cut into big round pieces
+The tomato should be cut into big cubed pieces
+The tomato should be cut into big regular pieces 
+The tomato should be cut into triangular pieces 
+
+
+What should be done to the water before it is boiled ?
+
+
+Action
+
+
+The water should be lightly salted before it is boiled 
+
+
+Options:
+The water should be spiced before  it is boiled 
+The water should be mixed with sugar before it is boiled 
+The water should be mixed with sweet papers before it is boiled 
+The water should be mixed with garlic before it is boiled 
+
+
+What do you do to the pasta once the water is boiling ?
+
+
+Action
+
+
+The pasta is added to the pot and is cooked  once the water is boiling 
+
+
+Options:
+The pasta is put in a separate metal dish once the water is boiling
+The pasta is crushed into very fine pieces once the water is boiling 
+The pasta is oiled up once the water is boiling 
+The pasta is put aside in a refrigerator once the water is boiling 
+
+
+
+
+When should the pasta be put  in cold water and drained ?
+
+
+Task Order 
+
+
+The pasta should be put in cold water and drained after being cooked through and firm to the bite ?
+
+
+Options:
+The pasta should be put in cold water and drained before cooking it in boiling water 
+The pasta should be put in cold water and drained after mixing it with salt
+The pasta should be put in cold water 
+and drained before adding red capucines 
+The pasta should be put in cold water and drained before adding green capucines
+
+
+When do you combine pasta and vegetables in the bowl ?
+
+
+Task Order
+
+
+You combine pasta and vegetables in the bowl  after the pasta is put in cold water and drained 
+
+
+Options:
+You combine pasta and vegetables in the bowl after adding olive oil to the pasta
+You combine pasta and vegetables before adding salt to the pasta
+You combine pasta and the vegetables after refrigerating the pasta 
+You combine pasta and vegetables after putting the pasta in the oven 
+
+
+What do you add to the pasta and vegetables when put together in the bowl ?
+
+
+Object
+
+
+You add mayonnaise to the pasta and vegetables when put together in the bowl
+
+
+Options:
+You add olive oil to the pasta and vegetables when put together in the bowl
+You add coconut oil to the pasta and vegetables in the bowl
+You add avocado oil to the pasta and vegetables in the bowl
+You add sweet paper to the pasta and vegetables in the bowl

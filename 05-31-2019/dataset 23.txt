@@ -1,0 +1,89 @@
+﻿5 mins video - https://www.youtube.com/watch?v=mhEVgpfF-IU
+
+Object Action Duration Task Order
+
+Where do l add the purified water ?
+
+Object 
+
+You add the purified water into a pan 
+
+Options:
+You add the purified water into a pot 
+You add the purified water into a cup 
+You add the purified water into a mixing dish
+You  add the purified water into a bowl
+
+When do you add the khaen pepper?
+
+Task Order
+
+You add khaen pepper after adding salt to the water 
+
+Options:
+You add khaen pepper after adding oil to the water 
+You add khaen pepper before adding the purified water into the pan
+You add khaen paper after adding cumin
+You add khaen paper after adding spice 
+
+How many teaspoons of chilli powder should be added?
+
+Action
+
+2 teaspoons of chilli powder should be added
+
+Options:
+4 teaspoons of chilli powder should be used
+5 teaspoons of chilli powder should be used
+6 teaspoons of chilli powder should be used
+7 teaspoons of chilli powder should be used
+
+To what size should the meat be cut into ?
+
+Action
+
+The meat should be cut into big pieces 
+
+Options:
+The meat can be cut into small regular chopped pieces
+The meat can be cut into small cubes 
+The meat can be cut into big cubes 
+The meat can be cut into big triangular pieces
+
+What type of stake meat is required?
+
+Object
+
+Beef stake meat is required
+
+Options:
+Chicken stake meat can be used 
+Pork stake meat can be used
+Mattorn stake meat can be used
+Lamb stake meat can be used
+
+When do we put the meat into the water ?
+
+Task Order
+
+You put the meat into the water when water is about to boil 
+
+Options:
+You put the meat into the water after the water is boiling
+You put the meat into the water before the water gets hot 
+You put the meat into the water before the water boils vigorously
+You put the meat into the water when the water is still cold 
+
+What do you use to break the cooked meat ?
+
+Object
+
+You use folks to break the cooked meat 
+
+Options:
+You use knifes to break the cooked meat 
+You use a spatula to break the cooked meat
+You use a tablespoon to break the cooked meat 
+You use a teaspoon to break the cooked meat
+
+

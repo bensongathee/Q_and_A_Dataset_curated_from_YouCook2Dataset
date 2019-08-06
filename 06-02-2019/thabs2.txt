@@ -1,0 +1,73 @@
+﻿4 mins video - https://www.youtube.com/watch?v=SHGY7kKeLq8
+
+Object, Action, Duration, Task Order 
+
+What is used to spread oil on the sausages? 
+Object
+A small kitchen brush is used to spread oil on the sausages 
+
+Options:
+A paper towel is used to spread oil on the sausages 
+A teaspoon is used to spread oil on the sausages 
+A cloth is used to spread oil on the sausages 
+A knife is used to spread oil on the sausages 
+
+What is used to put the sausages on the hot grill?
+Object 
+A tong is used to put the sausages on the hot grill
+
+Options:
+A knife is used to put the sausages on the hot grill 
+A fork is used to put the sausages on the hot grill 
+A scissor is used to put the sausages on the hot grill 
+A spoon is used to put the sausages on the hot grill 
+
+When is the frying pan used?
+Task Order 
+The frying pan is used to boil the sausages before grilling again
+
+Options:
+The frying pan is used when frying onions in oil
+The frying pan is used after grilling sausages for the first time
+The frying pan is used when marinating the sausages 
+The frying pan is used to boil the oil
+
+When is the brats tub used?
+Task Order 
+The brats tub is used to cook the insisde of brats after the first grilling step 
+
+Options:
+The brats tub is used before grilling the brats for the second time 
+The brats tub is used before serving the brats
+The brats tub is used when cooking the onions in beer
+The brats tub is used before the final grilling stage 
+
+How would you know if the brats are fully cooked?
+Action 
+Check if the brats are golden brown on the outside and white inside
+
+Options:
+Check if the brats have a little crisp texture to the casing 
+Check if the brats are browned
+Check if the brats are have lost the blood red colour 
+Check if the brats still release water
+
+What is the use of the thermometer? 
+Action 
+The thermometer is used to check the temperature of the grill and inside of the brats
+
+Options:
+The thermometer is used check if the inside temperature of brats has reached the cooking temperature 
+The thermometer is used to check temperature of the grill
+The thermometer is used to check the grill temperature 
+The thermometer is used to mix vegetables 
+
+For how long do you grill the brats?
+Task Order 
+Grill the brats for 15 to 20 minutes till they are browned
+
+Option:
+Grill the brats for 30 minutes
+Grill the brats for 45 minutes
+Grill the brats for 35 minutes 
+Grill the brats for a preferable period of tour choice

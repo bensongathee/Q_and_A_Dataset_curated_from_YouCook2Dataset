@@ -1,0 +1,90 @@
+﻿﻿6 mins video-https://www.youtube.com/watch?v=COkrOqleb1kOb1k
+
+Object Task Order Duration Action
+
+Where do you add the butter ?
+
+Object 
+
+You add the butter into a mixing bowl
+
+Options:
+You add the butter into a metal dish
+You add the butter into a plastic dish
+You add the butter into a flask
+You add the butter into a cup
+
+How many cups of barking flour should you add into the mixing bowl ?
+
+Action 
+
+You should add 4 cups of barking flour into the mixing bowl
+
+Options:
+3 and a half cups of flour can be added into the mixing bowl
+4 cups of flour can be added into the mixing  bowl
+5 cups of flour can be added into the mixing bowl
+5 and a half cups  of flour can be added into the mixing bowl 
+
+What amount of cooking oil should you add in the bowl?
+
+Action 
+
+You should add half a cup of oil 
+
+Options 
+You can add 3 cups of oil 
+You can add 4 cups of oil
+You can add 5 cups of oil
+You can add 1 full cup of oil 
+
+To what condition should the dour be mixed into ?
+
+Action
+
+The dour should be mixed until the dour is nice and soft 
+
+Options:
+The dour should be mixed until the dour is hard like  in texture
+The dour should be mixed until hot in temperature
+The dour should be mixed until the dour changes color to golden brown
+The dour should be mixed until the dour changes color to yellow 
+The dour should be mixed until it breaks into pieces 
+
+What do you do to the dour once it is nice and soft ?
+
+Action
+
+Remove it from the mixing bowl and put it to a table 
+
+Options:
+Remove it from the mixing bowl and put it in  a cup
+Remove it in from the mixing bowl and put it in a cutting board
+Remove it from the mixing bowl and put it In a smooth plate 
+Remove it from the mixing bowl and   put it onto a flat surface on a fridge 
+
+
+Where do you place your rotti once it is rolled into a thin layer ?
+
+Object
+
+The rotti is placed in the fridge once it is rolled into a thin layer 
+
+Options:
+The rotti can be  placed into a warm cardboard
+The rotti can be placed into a cool   cardboard
+The rotti can be placed into a cool storeroom
+The rotti can be placed into a Kitchen Shelf 
+
+What should you ensure when rolling out your rotti ?
+ 
+Action
+
+You should ensure that your rotti is rolled until a thin layer is formed 
+
+Options 
+You should ensure that your rotti is rolled until a thick layer is formed
+You should ensure that your rotti is rolled into until a very thick layer is formed
+You should ensure that your rotti is rolled until a dark brown color forms 
+You should ensure that you rotti is rolled until a yellow color forms 
+

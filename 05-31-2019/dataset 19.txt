@@ -1,0 +1,90 @@
+﻿﻿7 mins video - https://www.youtube.com/watch?v=tGaAAI3aAUs
+
+Object Action Duration Task Order
+
+Where do you brown of the ground beef mixture ?
+
+Object
+
+You brown the beef mixture in the pan 
+
+Options:
+You brown the beef mixture in the pot
+You brown the beef mixture in the metal dish 
+You brown the beef mixture in a metal cup 
+You brown the beef mixture in the oven 
+
+What do you use to remove the meat when it is browned ?
+
+Object
+
+You use a slotted spoon to remove the browned beef 
+
+Options:
+You use a tablespoon to remove the browned beef 
+You use a teaspoon to remove the the browned beef
+You use a folk to remove the browned beef 
+You use a cup to remove the browned beef
+
+When do you remove the meat from the pan ?
+
+Task Order 
+
+You remove the meat after it is now brown in color 
+
+Options:
+You remove the meat when it is before it is red in color 
+You remove the meat when it is after it is black in color 
+You remove the meat when it is now producing a lot of steam 
+You remove the meat after it is yellowish in color
+
+What amount of onion should be chopped ?
+
+Action
+
+1 full onion should be chopped 
+
+Options:
+3 onions can be chopped
+4 onions can be chopped
+5 onions can be chopped
+7 onions can be chopped
+
+What kind of paper is recommended to be used ?
+
+Object
+
+Paseo pepper is recommended to be used 
+
+Options:
+Green pepper can be used 
+Red pepper can be used
+Yellow pepper can be used
+Orange pepper can be used
+
+What heat is required to cook the vegetables?
+
+Action
+
+Medium high heat is required to cook the vegetables
+
+Options:
+Very low heat can be used 
+Very high heat can be used
+Medium low heat can be used
+Extreme heat can be used
+
+How many tablespoons of cumin should be added to the vegetable mixture?
+
+Object
+
+1 tablespoon of cumin should be added to the vegetable mixture
+
+Options:
+2 tablespoons of cumin can be added to the vegetable mixture
+3 tablespoons of cumin can be added to the vegetable mixture
+4 tablespoons of cumin can be added to the vegetable mixture
+5 tablespoons of cumin can be added to the mixture
+
+
+

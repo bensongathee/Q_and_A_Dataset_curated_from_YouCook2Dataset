@@ -1,0 +1,74 @@
+﻿5 mins video - https://www.youtube.com/watch?v=tKAWmB7gaYk
+
+Object, Action, Duration, Task Order 
+
+What is the use of the opener?
+Object
+The opener is used to open the tinned refried beans 
+
+Options:
+The opener is used to spread the refried beans on the tortilla 
+The opener is used cut onions
+The opener is used to open the tinned cheese
+The opener is used to open the tortilla bag
+
+What is put in the plate before adding refried beans
+Object
+Tortilla is put in the plate
+
+Options:
+Bread slice is put in the plate
+Pizza slice is put in the plate
+Potato slice is put in the plate 
+Wheat bread is put in the plate 
+
+What is the use of the microwave? 
+Action
+The microwave is used to cook the burritos for two minutes 
+
+Options:
+The microwave is used to heat the burritos 
+The microwave is used to heat the cheese
+The microwave is used to heat the beans
+The microwave is used to moisten the refried beans 
+
+What is the use of the spoon?
+Action 
+The spoon is used to put refried beans on the tortilla 
+
+Options:
+The spoon is used to put sliced cheese on the tortilla
+The spoon is used to put salt on the refried beans 
+The spoon is used to put chilli sauce on the tortilla 
+The spoon is used to mix refried beans and cheese 
+
+When is the cheese put on the tortilla? 
+Task Order 
+Cheese is put on the tortilla before putting the burritos in the microwave 
+
+Options:
+Cheese is put on the tortilla after putting salt 
+Cheese is put on the tortilla after putting refried beans 
+Cheese is put on the tortilla before adding salt
+Cheese is put on the tortilla before adding any ingredient 
+
+When is the hot sauce added on burrito?
+Task Order 
+Hot sauce is added before cooking the burritos 
+
+Options:
+Hot sauce is added after adding salt on the burritos 
+Hot sauce is added after microwaving the burritos for two minutes
+Hot sauce is added before adding salt and cheese
+Hot sauce is added after adding refried beans
+
+How would you know if the cheese in the middle of the burritos is cooked?
+Action
+Check if the cheese has melted
+
+Options:
+Check if the burritos taste good
+Check if the burrito is cut
+Check if the refried beans has melted 
+Check if the burritos is golden or browned
+

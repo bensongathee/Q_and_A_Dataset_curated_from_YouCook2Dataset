@@ -1,0 +1,89 @@
+﻿﻿4 mins video - https://www.youtube.com/watch?c=i4ZAwUoP8c4
+
+Option Action Duration Task Order
+
+What kind of oil do we use ?
+
+Object
+
+We use vegetable oil 
+
+Options:
+We use olive oil
+We use coconut oil
+We use sunflower oil
+We use sugar bean oil 
+
+What type of meat do you use ?
+
+Object 
+
+Beef meat is used 
+
+Options:
+Pork meat is used
+Chicken meat is used 
+Mattorn meat is used 
+Kudu meat is used 
+
+How do you cut the meat ?
+
+Action
+
+You cut the meat into cubes 
+
+Options:
+You cut the meat into triangular shape
+You cut the meat into rectangular shape
+You cut the meat into small random pieces 
+You cut the pieces into big random pieces
+
+How many sweet papers should be added to the mixture?
+
+Action
+
+1 sweet paper should be added to the mixture
+
+Options:
+2 sweet papers should be added to the mixture
+2 and a half sweet papers should be added to the mixture
+3 sweet papers should be added to the mixture
+4 sweet papers should be added to the mixture
+
+How many tomatoes should be added to the mixture ?
+
+Action
+
+1 tomatoe is added to the mixture
+
+Options:
+2 tomatoes are added to the mixture
+2 and a half tomatoes are added to the mixture
+3 tomatoes are added to the mixture
+4 tomatoes are added to the mixture
+
+What heat is needed to boil the mixture?
+
+Action
+
+Low heat is needed to boil the mixture
+
+Options:
+High heat can be used to boil the mixture 
+Very low heat can be used to boil the mixture
+Semi high heat can be used to boil the mixture
+Very high heat can be used to boil the mixture
+
+When using 1 egg,how much amount of the egg is specifically suppose to be used ?
+
+Action
+
+1/3 of the egg is used 
+
+Options:
+2/3 of the egg can be used 
+1/4 of the egg can be used
+1/2 of the egg can be used
+3/4 of the egg can be used
+
+

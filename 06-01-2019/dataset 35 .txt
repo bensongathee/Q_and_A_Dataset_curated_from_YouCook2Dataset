@@ -1,0 +1,76 @@
+﻿4 mins video - https://www.youtube.com/watch?v=Ex2yu23wyHA
+
+Object Action Duration Task Order
+
+Why do you put the frozen noodles in the water? 
+
+Action
+
+You put the frozen noodles in the water to defrost it 
+
+Options:
+You put the frozen noodles in the water to brown it 
+You put the frozen noodles in the water to season it 
+You put the frozen noodles in the water to break the noodles
+You put the frozen noodles in the water to rinse the noodles
+
+What do you do to the noodles once it is defrosted and ready?
+
+Action 
+
+You drain the noodles once it is defrosted and ready 
+
+Options:
+You chopp the noodles once it is defrosted and ready 
+You salt the noodles at once 
+You add cumin to the noodles at once 
+You add chilli to the noodles at once 
+
+How many number of spoons of oil should be added?
+
+Action 
+
+1 spoon of oil should be added 
+
+Options:
+
+2 spoons of oil should be added 
+3 spoons of oil should be added 
+4 spoons of oil should be added 
+5 spoons of oil should be added 
+
+When do you add the mashroom to the pan ?
+
+Task Order
+
+You add the mashroom to the pan after adding the meat 
+
+Options:
+You add the mashroom to the pan before adding meat 
+You add the mashroom to the pan after adding garlic 
+You add the mashroom to the pan after adding the parsely
+You add the mashroom to the pan after adding the cumin 
+
+What kind of spice should be added to the pan ?
+
+Object 
+
+Chicken spice should be added to the pan
+Cumin spice should added to the pan 
+Tumeric spice should be added to the pan
+Coriander spice should be added to the pan
+
+What type of paper should be used when seasoning ?
+
+Object 
+
+White pepper should be used when seasoning
+
+Options:
+Green pepper should be used when seasoning
+Yellow pepper should be used when seasoning 
+Black pepper should be used when seasoning
+Orange pepper should be used when seasoning
+
+
+

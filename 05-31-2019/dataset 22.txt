@@ -1,0 +1,91 @@
+﻿﻿3 mins video - https://www.youtube.com/watch?v=eYOn2ZVB4nc
+
+Object Action Duration Task Order
+
+How many spring onions are required?
+
+Object 
+
+3 spring onions are required 
+
+Options:
+5 spring onions are required
+6 spring onions are required
+7 spring onions are required 
+9 spring onions are required
+
+How many tomatoes are needed?
+
+Object
+
+1 tomatoe is needed 
+
+Options:
+2 tomatoes can be used
+4 tomatoes can be used
+5 tomatoes can be used 
+6 tomatoes can be used 
+
+How many tablespoons of olive oil should be used ?
+
+Object
+
+3-4 tablespoons of olive oil should be used 
+
+Options:
+6-7 tablespoons of olive oil can be used
+7-8 tablespoons of olive oil can be used 
+9-10 tablespoons of olive oil can be used
+12-13 tablespoons of olive oil can be used 
+
+To what size must the parlsey be cut into ?
+
+Action
+
+The parsley must be cut into fine particles
+
+Options:
+The parsley must be cut into thick particles
+The parsely must be cut to straight pieces
+The parsely must be cut into thick layes 
+The parsely must be cut into round like big shape
+
+Where do you put the choppped parsley?
+
+Object
+
+You put the choppped parsley in a small bowl
+
+Options:
+You put the choppped parsley in a big bowl
+You put the choppped parsley in a cup
+You put the choppped parsley in a plate 
+You put the choppped parsley in a metal dish 
+
+What do you use to scoop the seeds out of the cucumber?
+
+Object
+
+You use a spoon to scoop the seeds out of the cucumber
+
+Options:
+You use a knife to scoop the seeds out of the cucumber
+You use a tablespoon to scoop the seeds out of the cucumber
+You use a folk to scoop the seeds out of the cucumber 
+You use a spatula to remove the seeds out of the cucumber
+
+When do you salt and pepper into the mixture inside the bowl?
+
+Task Order
+
+You salt and pepper the mixture after cutting and mixing all the vegetables
+
+Options:
+You salt and pepper after only parsley has been added to the bowl
+You salt and pepper after onion only has been added to the bowl 
+You salt and paper after the tomatoes only have been added to the bowl
+You salt and pepper after cutting the spring onions
+
+
+
+

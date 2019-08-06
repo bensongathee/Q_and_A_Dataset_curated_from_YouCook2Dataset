@@ -1,0 +1,92 @@
+﻿﻿﻿4 mins video - https://www.youtube.com/watch?v=RWtVm_5_D2s 
+
+Object Action Duration Task Order
+
+What amount of flour is needed?
+
+Action
+
+1 kg of flour is needed
+
+Options:
+2 kg of flour is needed 
+3 kg of flour is needed
+4 kg of flour is needed
+5 kg of flour is needed
+
+What amount of water should be poured ?
+
+Action
+
+500 milliliters of water should be poured
+600 milliliters of water should be poured 
+700 millimeters of water should be poured 
+800 milliliters of water should be poured
+
+Where do you mix the olive oil and yeast?
+
+Object
+
+You mix the olive oil and yeast in a metal dish 
+
+Options:
+You mix the olive oil and yeast in a bowl made of glass
+You mix the olive oil and yeast in a plastic dish 
+You mix the olive oil and yeast in a plastic cup
+You mix the olive oil and yeast in a metal cup
+
+What do you do to the flour and the mixed olive oil, yeast and water?
+
+Action
+
+You mix the flour and the mixed olive oil ,yeast and water
+
+Options
+
+You stir the flour and the mixed olive oil, yeast and water
+You shake the flour and the mixed olive oil, yeast and water
+You squash the mixed flour and the mixed olive oil, yeast and water
+You rub the flour and the mixed olive oil, yeast and water
+
+When do you add salt to the dour ?
+
+Task Order
+
+Add salt almost at the end right before final mix 
+
+Options:
+Add salt when starting to mix the dour 
+Add salt after 2 minutes after the initial mix 
+Add salt after 3 minutes after the initial mix 
+Add salt after 4 minutes after the initial mix
+
+What do you use to mix the dour and the salt ?
+
+Object
+
+You use your hands to mix the dour and the salt 
+
+Options:
+
+You use a tablespoon to mix the dour and the salt
+You use a folk to mix the dour and the salt
+You use a teaspoon to mix the dour and the salt
+You use a stirer to mix the dour and the salt
+
+What do you use to coat the dour mixture?
+
+Object
+
+You use olive oil to coat the dour mixture
+
+Options
+
+You use coconut oil to coat the dour mixture
+You use ovacado oil to coat the dour mixture
+You use sunflower oil to coat the dour mixture
+You use sugarbean oil to coat the dour mixture
+
+
+
+
+

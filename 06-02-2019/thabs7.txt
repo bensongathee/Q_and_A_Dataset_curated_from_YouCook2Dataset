@@ -1,0 +1,75 @@
+﻿7 mins video - https://www.youtube.com/watch?v=3olyGz_ERME
+
+Object, Action, Duration, Task Order 
+
+What is used to stir fry the vegetables and meat in the pot? 
+Object 
+A wooden cooking stick is used to stir fry
+
+Options:
+A serving spoon is used to stir fry
+A tablespoon is used to stir fry
+A knife is used to stir fry
+A fork is used to stir fry
+
+What is spread on top of the finished product?
+Object
+Vinegar is spread on top of the finished product 
+
+Options:
+Salt is spread on top of the finished product
+Tomato sauce is spread on top of the finished product
+Chilli sauce is spread on top of the finished product
+Mustard sauce is spread on top of the finished product
+
+How would you know if the pork is cooked?
+Action 
+Check if the pork is browned
+
+Options:
+Check if the pork is easily cut
+Check if the pork is crispy
+Check if the pork tastes good
+Check if the pork is golden brown
+
+When is the Udon noodles put in the fried vegetables? 
+Task Order 
+Udon noodles is put in the fried vegetables after the vegetables are cooked and soft
+
+Options:
+Udon noodles is put in the fried vegetables before serving the meal
+Udon noodles is put in the fried vegetables after adding pork 
+Udon noodles is put in the fried vegetables before adding salt
+Udon noodles is put in the fried vegetables as you stir fry the vegetables 
+
+What is the use of the knife?
+Action
+The knife is used to cut the pork and vegetables 
+
+Options:
+The knife is used to Japanese chives
+The knife is used to cut the noodles
+The knife is used to cut the cabbage
+The knife is used to stir fry the vegetables 
+
+When are the tablespoons used?
+Task Order 
+The tablespoons are used when adding the flavourings in the pot 
+
+Options:
+The tablespoons are used when measuring oyster sauce in the small bowl
+The tablespoons are used before stir frying
+The tablespoons are used to add olive oil in the pot 
+The tablespoons are used to stir fry 
+
+What is used to spread vinegar on the Yaki Udon?
+Object 
+A sauce bottle is used to spread vinegar on the Yaki Udon
+
+Options:
+A cup is used to spread vinegar on the Yaki Udon
+A tablespoon is used to spread vinegar on the Yaki Udon
+A spreader is used to spread vinegar on the Yaki Udon
+A bowl is used to spread vinegar on the Yaki Udon
+
+

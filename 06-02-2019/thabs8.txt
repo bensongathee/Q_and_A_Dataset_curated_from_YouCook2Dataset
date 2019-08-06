@@ -1,0 +1,81 @@
+﻿﻿5 mins video - https://www.youtube.com/watch?v=bQ3QYyFglc0
+
+Object, Action, Duration, Task Order 
+
+What is spread on top of the bread?
+Object
+Mayonnaise is spread on top of the bread
+
+Options:
+Tomato sauce is spread on top of the bread
+Butter is spread on top of the bread
+Hot sauce is spread on top of the bread
+Jam is spread on top of the bread
+
+
+What is the use of the plate?
+Action
+The plate is used to prepare the sandwich
+
+Options:
+The plate is used to put bread
+The plate is used to put bacon
+The plate is used to put ham
+The plate is used to put lettuce 
+
+
+When is the mayonnaise put on the sandwich?
+Task Order
+The mayonnaise is put on the sandwich before and after adding all ingredients on the bread
+
+Options:
+The mayonnaise is put on the sandwich after adding vegetables 
+The mayonnaise is put on the sandwich before adding bacon and ham
+The mayonnaise is put on the sandwich after adding ham
+The mayonnaise is put on the sandwich after adding lettuce 
+
+
+What is used to cut the bread?
+Object
+A bread knife is used to cut the bread 
+
+Options:
+A sandwich spreader is used to cut the bread
+A fork is used to cut the bread
+A spoon is used to cut the bread
+A scissors is used to cut the bread
+
+
+When is the pan used?
+Task Order 
+The pan is used when frying the bacon before it is put on the bread
+
+Options:
+The pan is used after seasoning the bread
+The pan is used before adding vegetables on the bread
+The pan is used to fry the vegetables 
+The pan is used to fry the bread
+
+How long is the bacon fried?
+Action
+The bacon is fried for 2 minutes on high heat till it starts browning 
+
+Options:
+The bacon is fried for 10 minutes 
+The bacon is fried for 5 minutes 
+The bacon is fried for 4 minutes 
+The bacon is fried till it turns red brown
+
+When is the cutting board used?
+Task Order 
+The cutting board is used when cutting the tomatoes and avocados 
+
+Options:
+The cutting board is used when cutting bacon
+The cutting board is used when cutting ham
+The cutting board is used when serving sandwiches 
+The cutting board is used when cutting lettuce 
+
+
+
+

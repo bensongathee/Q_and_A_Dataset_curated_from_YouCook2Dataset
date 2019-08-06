@@ -1,0 +1,89 @@
+﻿3 mins video - https://www.youtube.com/watch?v=EnP2j1caRVs
+
+Object Action Duration Task Order
+
+What amount of sugar is required?
+
+Action
+
+1/3 cup of sugar is required
+
+Options:
+2 cups of sugar are required
+3 cups of sugar are required
+4 cups of sugar are required
+5 cups of sugar are required
+
+What do you do to the short ribs at first ?
+
+Action
+ 
+You soak the short ribs in water at first
+
+Options:
+You cut the short ribs at first 
+You heat the short ribs at first
+You oil the short ribs at first 
+You salt the short ribs at first 
+
+What do you do after separating the short ribs from the water ?
+
+Action
+
+You thoroughly rinse the short ribs 
+
+Options:
+You add salt to the short ribs 
+You add cumin to the short ribs 
+You cut the short ribs 
+You heat the short ribs
+
+What kind of oil is required?
+
+Object 
+
+Sesam oil is required
+
+Options:
+Olive oil can be used
+Coconut oil can be used
+Ovacado oil can be used
+Vegetable oil can be used
+
+What do you do to the onions once you add them to the other ingredients?
+
+Action
+
+You mix them with the other ingredients
+
+Options:
+You grind them 
+You squash them 
+You squiz them 
+You salt them 
+
+Where do you place the short ribs for them to marinate ?
+
+Object
+
+You place the short ribs in a bowl for them to marinate
+
+Options:
+You place the short ribs in the metal dish
+You place the short ribs in the plastic dish 
+You place the short ribs in a cup 
+You place the short ribs in a pan 
+
+When do you cut the short ribs?
+
+Task Order
+
+You cut the short ribs after cooking them 
+
+Options:
+You cut the short ribs after adding salt 
+You cut the short ribs before cooking them 
+You cut the short ribs after adding cumin
+You cut the short ribs before marinating
+
+

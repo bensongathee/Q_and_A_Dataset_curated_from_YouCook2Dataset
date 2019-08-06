@@ -1,0 +1,76 @@
+﻿﻿﻿6 mins video - https://www.youtubecom/watch?v=CIRA1IC9shc
+
+Object, Action, Duration, Task Order
+
+What is used to peel the garlic?
+Object
+A knife is used to peel the garlic 
+
+Options:
+A spoon is used to peel the garlic 
+A scissor is used to peel the garlic 
+A fork is used to peel the garlic 
+A grater is used to peel the garlic 
+
+When is the bacon removed from the frying pot?
+Task Order 
+The bacon is removed from the frying pot when it is completely golden brown 
+
+Options:
+The bacon is removed from the frying pot when it is brown
+The bacon is removed from the frying pot when it is golden 
+The bacon is removed from the frying pot when it looks crispy
+The bacon is removed from the frying pot when it looks golden yellow 
+
+What is the use of the paper towel?
+Action
+The paper towel is used to dry up the meat dump
+
+Options:
+The paper towel is used to remove dump
+The paper towel is used to clean the meat
+The paper towel is used to cover the meat
+The paper towel is used to marinate the meat
+
+How would you know if the vegetables in the meat are cooked?
+Action
+Check if the vegetables are soft in texture 
+
+Options:
+Check if the vegetables are red in colour 
+Check if the vegetables taste good
+Check if the carrots are cut
+Check if the onions are cut
+
+When are the mushrooms removed from the frying pan? 
+Task Order 
+The mushrooms are removed from the frying pan when it is completely golden brown 
+
+Options:
+The mushrooms are removed from the frying pan when crispy
+The mushrooms are removed from the frying pan when yellowish in colour
+The mushrooms are removed from the frying pan when it is brown 
+The mushrooms are removed from the frying pan when it is golden yellow
+
+What is used to add flour in the meat and vegetables?
+Object 
+A tablespoon is used to add flour in the meat and vegetables 
+
+Options:
+A teaspoon is used to add flour in the meat and vegetables 
+A frying spoon is used to add flour in the meat and vegetables 
+A whisk is used to add flour in the meat and vegetables 
+A knife is used to add flour in the meat and vegetables 
+
+When is the frying pan used?
+Task Order 
+The frying pan is used when frying the mushrooms 
+
+Options:
+The frying pan is used when frying the bacon
+The frying pan is used when frying the beef
+The frying pan is used when boiling the beef
+The frying pan is used when frying the vegetables 
+
+
+

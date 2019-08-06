@@ -1,0 +1,91 @@
+﻿﻿﻿3mins video - https://www.youtube.com/watch?v=ffhliBglDhY
+
+Object Action Duration Task Order
+
+What amount of cucumber should be cut?
+
+Action
+
+1/2 a cucumber should be cut 
+
+Option:
+2/3 of a cucumber can be be cut
+3/4 of a cucumber can be cut
+1 full cucumber can be cut 
+1 and a half cucumber can be cut 
+
+How many pita breads should be used? 
+
+Action
+
+3 pita breads should be used 
+
+Options:
+2 pita breads can be used 
+4 pita breads can be used 
+5 pita breads can be used
+6 pita breads can be used
+
+Where do you mix the vegetables together with the spices ?
+
+Object
+
+You mix the vegetables in a glass bowl
+
+Options:
+You can mix the vegetables in a plastic dish
+You can mix the vegetables in a metal dish 
+You can mix the vegetables in a pot 
+You can mix the vegetables in a pan 
+
+To what shape do you cut the pita breads ?
+
+Action
+
+You cut the pita breads into triangular shapes 
+
+Options:
+You can cut the pita breads into squares 
+You can cut the pita breads into rectangular shapes 
+You can cut the pita breads into circular shapes 
+You can cut the pita breads into random shapes 
+
+What type of oil is required ?
+
+Object
+
+Olive oil is required
+
+Options:
+Coconut oil can be used
+Vegetable oil can be used 
+Ovacado oil can be used 
+Sunflower oil can be used
+
+To what color should be the cut pita breads be fried into ?
+
+Action
+
+The pita breads should be fried to a golden brown color 
+
+Options:
+The pita breads can be be fried to a ordinary brown color 
+The pita breasts can be fried to a yellow color
+The pita breads can be fried to a  black color 
+The pita breads can be fried to a  orange color
+
+What do you use to remove the fried pita breads ?
+
+Object
+
+You use a slotted spoon to remove the fried pita breads 
+
+Options:
+
+You can use a flat spoon to remove the fried pita breads
+You can use a teaspoon to remove the fried pita breads
+You can use a tablespoon to remove the fried pita breads
+You can use a grilling spoon to remove the fried pita breads
+
+
+

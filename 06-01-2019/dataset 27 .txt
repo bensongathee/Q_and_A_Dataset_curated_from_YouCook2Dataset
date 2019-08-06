@@ -1,0 +1,105 @@
+﻿4 mins video - https://www.youtube.com/watch?v=hL0kuCIfFJl
+
+Object Action Duration Task Order
+
+Where do you add the olive oil
+
+Object 
+
+You add the olive oil to the pan 
+
+Options:
+You add the olive oil to a bowl
+You add the olive oil to a metal dish 
+You add the olive oil to a cup 
+You add the olive oil to a plastic dish 
+
+What is added first to the pan once the oil is heated ?
+
+Action
+
+You add the shallots to the pan once the oil is heated 
+
+Options:
+You add cumin to the pan once the oil is heated 
+You add spice to the pan once the oil is heated 
+You add mushroom to the pan sauce once the oil is heated
+You add butter to the pan once the oil is heated
+
+What temperature do you use to cook the whole mixture ?
+
+Action 
+
+You use high temperature to cook the whole mixture
+
+Options:
+You use low heat temperature to cook the whole mixture 
+You use very high temperature to cook the whole mixture
+You use extreme temperature to cook the whole mixture
+You use very low temperature to cook the whole mixture
+
+What sort of garlic is used ?
+
+Object
+
+Minced garlic is used 
+
+Options:
+Squizzed garlic is used
+Grilled garlic is used
+Boiled garlic is used 
+Fried garlic is used
+
+What type of sauce is used ?
+
+Object
+
+Soy sauce is used 
+
+Options:
+Tomatoe sauce can be used
+Mashroom sauce can be used 
+Mustard sauce can be used
+Vienna sauce can be used 
+
+When are the different types of peppers added to the pan?
+
+Task Order
+
+You add the different types of peppers after soy sauce has been added 
+
+Options:
+You add the different types of peppers after adding the Pineapple
+You add the different types of peppers before adding minced garlic to the pan
+You add the different types of peppers
+before adding shallots 
+You add the different types of peppers before adding spice 
+
+When do you add the curry powder?
+
+Task Order
+
+You add the curry powder after adding the peppers to the pan 
+
+Options:
+You add the curry powder before adding minced garlic to the pan
+You add the curry powder before adding peppers to the pan 
+You add the curry powder before adding shallots 
+You add the curry powder before adding the soya sauce
+
+What amount of pineapple is needed?
+
+Action 
+
+1/3  cup of pineapple is needed 
+
+Options:
+2 cups of pineapple can be used
+4 cups of pineapple can be used
+5 cups of pineapple can be used
+6 cups of pineapple can be used
+
+
+
+
+

@@ -1,0 +1,96 @@
+﻿2 mins video - https://www.youtube.com/watch?v=aG7Clvjn1Lw
+
+Object Action Duration Task Order
+
+What do you  add first when preparing the Ceasar sauce?
+
+Action
+
+You add a clove of garlic to the pan 
+
+Options:
+You add onion to the pan 
+You add mushroom sauce to the pan
+You add mayonnaise to the pan 
+You add milk to the pan 
+
+What do you add after adding some mayonnaise ?
+
+Object 
+
+You add mustard after adding some mayonnaise
+
+Options:
+You add coconut oil after adding some mayonnaise
+You add mushroom sauce after adding some mayonnaise
+You add some cumin after adding the some mayonnaise
+You add some vinegar after adding some mayonnaise
+
+When do you add milk to the pan?
+
+Task Order
+
+You add milk to the after adding mascaporne cheese
+
+Options:
+You add milk to the pan after adding the butter
+You add  milk to the pan after adding salt
+You add milk to the pan before adding garlic 
+You add milk to the pan before adding mustard
+
+
+What do you do to the chicken breast ?
+
+Action
+
+You cut the chicken breasts in half
+
+Options
+
+You boil the chicken breasts
+You brown the chicken breasts
+You grill the chicken breasts
+You slice the chicken breasts to very pieces 
+
+What do you add to the cut chicken brests ?
+
+Object
+
+You add salt to the cut chicken breasts
+
+Options:
+You add spice to the cut  chicken breasts
+You add cumin after cutting the chicken breasts
+You add soya oil to the cut chicken breasts 
+You add parsely to the cut chicken breasts 
+
+How do you cook the chicken breasts when they are inside the frying pan ?
+
+Action
+
+You cook for 5 minutes per side
+
+Options:
+You cook for 6 minutes per side 
+You cook for 8 minutes per side 
+You cook for 12 minutes per side 
+You cook for 16 minutes per side 
+
+What do you use to reserve the cooked chit breasts?
+
+Object
+
+You use a plate to reserve the cooked chicken breasts
+
+Options:
+
+You use a cup to reserve the chicken breasts 
+You use a bowl to reserve the chicken breast 
+You use a metal dish to reserve the chicken breasts
+You use a pot to reserve the chicken breasts
+
+
+
+ 
+
+
