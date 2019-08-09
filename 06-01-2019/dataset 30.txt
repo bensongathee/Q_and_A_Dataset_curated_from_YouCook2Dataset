@@ -1,9 +1,8 @@
-﻿3 mins video - https://www.youtube.com/watch?v=5MiUA4iakbA
+﻿﻿3 mins video - https://www.youtube.com/watch?v=5MiUA4iakbA
 
 Object Action Duration Task Order
 
 How many pounds of stew meat is required?
-
 Action
 
 1 and a half pounds of stew meat is required 
@@ -15,7 +14,6 @@ Options:
 5 pounds of stew meat is required
 
 What is done to the stew meats ?
-
 Action
 
 The stew meat is cut first 
@@ -27,7 +25,6 @@ The stew meat is seasoned first
 The stew meat is browned first
 
 Where do you mix the marinade and the shrimp ?
-
 Object
 
 You mix the marinade and the shrimp in a bowl 
@@ -39,7 +36,6 @@ You mix the marinade and the shrimp in a pot
 You mix the marinade and the shrimp in a plate 
 
 For how long should the meat be marinated?
-
 Action
 
 The meat should be marinated for 2 hours
@@ -51,7 +47,6 @@ The meat should be marinated for 8 hours
 The meat should be marinated for 11 hours 
 
 Where is the shrimp put while the meat is marinating ?
-
 Object
 
 The shrimp is put in the fridge while the meat is marinating
@@ -63,7 +58,6 @@ The shrimp is put in a cool cardboard while the meat is marinating
 The shrimp is put in a griller while the meat is marinating
 
 What is used to thread the meat ?
-
 Object
 
 You use metal skewers to thread the meat
@@ -75,7 +69,6 @@ You use a bronze wire to thread the meat
 You use a knife to thread the meat 
 
 What is used to cook the meat and the shrimps ?
-
 Object
 
 A gas grill is used to cook the meat and the shrimps

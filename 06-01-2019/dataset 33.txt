@@ -1,9 +1,8 @@
-﻿﻿3 mins video - https://www.youtube.com/watch?v=igC0oJ48gxg
+﻿﻿﻿3 mins video - https://www.youtube.com/watch?v=igC0oJ48gxg
 
 Object Action Duration Task Order
 
 How many tablespoons of olive oil should be added to the pan ?
-
 Action
 
 1 tablespoon of olive olive oil should be added to the pan
@@ -15,7 +14,6 @@ Options:
 5 tablespoons of olive oil can be added to the pan
 
 How many onions are you going to cook ?
-
 Action 
 
 You are going to cook 1 large onion
@@ -27,7 +25,6 @@ You are going to cook 4 large onions
 You are going to cook 5 large onions
 
 What is done to the 2 tomatoes?
-
 Action
 
 The 2 tomatoes are chopped
@@ -39,7 +36,6 @@ The 2 tomatoes are boiled
 The 2 tomatoes are browned
 
 When do you add the canned beans ?
-
 Task Order
 
 You add canned beans after the onions have been browned 
@@ -51,7 +47,6 @@ You add the canned beans before adding oil to the pan
 You add the canned beans before adding cumin
 
 What is used to stirer the mixture ?
-
 Object
 
 A slotted spoon is used to stirer the mixture
@@ -63,7 +58,6 @@ You use a teaspoon to stirer the mixture
 You use a folk to stirer the mixture
 
 What is used to cook the wild rice ?
-
 Object 
 
 You use a pressure cooker to cook the wild rice 
@@ -75,7 +69,6 @@ You use a firewood grill to cook the wild rice
 You use a coal grill to cook the wild rice 
 
 What type of rice is used ?
-
 Object
 
 Jasmine rice is used

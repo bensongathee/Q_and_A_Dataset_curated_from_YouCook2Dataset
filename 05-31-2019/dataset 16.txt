@@ -1,9 +1,8 @@
-﻿4 mins video - https://www.youtube.com/watch?v=2bQdqBq8Ac8
+﻿﻿4 mins -https://www.youtube.com/watch?v=2bQdqBq8Ac8
 
 Object Action Duration Task Order
 
 At what heat should the pan be placed into?
-
 Action
 
 The pan should be placed in low heat
@@ -15,7 +14,6 @@ The pan should be placed in very high heat
 The pan should be placed in extremely high heat 
 
 What amount of Borlotti beans is required ?
-
 Action
 
 100g of Borlotti beans is required
@@ -27,7 +25,6 @@ Options:
 2 kg of Borlotti beans is required
 
 How many stalks of cerely should be used ?
-
 Action
 
 1 stalk of celery should be used 
@@ -39,7 +36,6 @@ Options:
 10 stalks of cerely should be used 
 
 What type of oil do you add in the Minestrone soup?
-
 Object
 
 Virgin olive oil is added to the Minestrone soup
@@ -51,7 +47,6 @@ Ovacado oil is added to the Minestrone soup
 Sunflower oil is added to the Minestrone soup
 
 How many cloves of garlic do you crush ?
-
 Action
 
 3 cloves of garlic are crushed 
@@ -63,7 +58,6 @@ Options:
 9 cloves of garlic are crushed
 
 When do you add the pasta into the Minestrone soup?
-
 Task Order
 
 You add the pasta after the Minestrone soup has started boiling
@@ -75,7 +69,6 @@ You add pasta to the Minestrone soup after adding salt to the Minestrone soup
 You add pasta to the Minestrone soup after adding the tomatoes into the Minestrone soup
 
 What type of pasta should be added to the Minestrone soup?
-
 Object
 
 Bacatini pasta is added to the Minestrone soup

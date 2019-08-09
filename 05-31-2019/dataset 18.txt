@@ -1,9 +1,8 @@
-﻿﻿2 mins video - https://www.youtube.com/watch?v=0Mz4NTozNXw
+﻿﻿﻿﻿﻿2 mins - https://www.youtube.com/watch?v=0Mz4NTozNXw
 
 Object Action Duration Task Order
 
 Where is the pepper and the mash mixed?
-
 Object
 
 The pepper and the mash is mixed in a glass bowl
@@ -15,7 +14,6 @@ The pepper and the mash can be mixed in a cup
 The pepper and the mash can be mixed in a pot
 
 What type of breadcrumbs are used ?
-
 Object
 
 Panko breadcrumbs are used 
@@ -27,7 +25,6 @@ White wheat breadcrumbs can be used
 Yellow wheat breadcrumbs can be used
 
 What shape should the onion be cut into ?
-
 Action 
 
 The onion should be cut into round rings 
@@ -38,7 +35,6 @@ The onion can be cut into triangular shapes
 The onion can be cut into cubes 
 
 What do you use to fry the onion rings?
-
 Object 
 
 You use a pan to fry the onion rings 
@@ -49,8 +45,7 @@ You use a pot to fry the onion rings
 You use a metal cup to fry the onion rings
 You use a saucer to fry the onion rings
 
-What do you use to remove the onion rings ?
- 
+What do you use to remove the onion rings ? 
 Object 
 
 You use a slotted spoon to remove the fried onion rings
@@ -62,7 +57,6 @@ You use a knife to remove the the Fred onion rings
 You use a folk to remove the onion rings 
 
 Why do we use a slotted spoon to remove the fried onion rings?
-
 Action
 
 You remove the slotted spoon to remove the fried onion rings to remove excess oil on the onion rings
@@ -74,7 +68,6 @@ To break the onion rings
 To crush the onion rings
 
 When should the onion rings be removed from the pan ?
-
 Task Order 
 
 The onion rings should be removed from the pan after they are now golden brown in color 
@@ -86,7 +79,6 @@ The onion rings should be removed from the pan after they start releasing string
 The onion rings should be removed from the pan when they are now grey in color
 
 Where do you put the onion rings after they are ready ?
-
 Object 
 
 You put the onion rings in a plain white pepper to remove fat

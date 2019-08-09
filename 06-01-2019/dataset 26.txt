@@ -1,9 +1,8 @@
-﻿6 mins video - https://www.youtube.com/watch?v=cF45-iVw--w
+﻿﻿6 mins video - https://www.youtube.com/watch?v=cF45-iVw--w
 
 Object Action Duration Task Order
 
 What is done to the Penne at first?
-
 Action
 
 The Penne is boiled 
@@ -15,7 +14,6 @@ The Penne is fried
 The Penne is slightly warmed in an oven 
 
 How much Penne from the box is required ? 
-
 Object
 
 3/4 of the Penne from the box is required
@@ -27,7 +25,6 @@ Options:
 1/2 of the Penne from the box is required
 
 How much amount of butter is required?
-
 Object 
 
 Half a stick of butter is required
@@ -51,7 +48,6 @@ The onion must be cut to big pieces
 The onion must be boiled 
 
 When should vodka be added to the mixture ?
-
 Task Order
 
 Vodka should be added to the mixture after onions have been fried to yellow color
@@ -64,7 +60,6 @@ Vodka should be added to the mixture
 before adding butter
 
 What amount of vodka should be added?
-
 Action 
 
 1/3 of a cup of vodka should be added
@@ -76,7 +71,6 @@ Options:
 3 cups of vodka are added 
 
 What is added to the mixture after vodka has been added ?
-
 Object
 
 Tomatoe puree is added to the mixture

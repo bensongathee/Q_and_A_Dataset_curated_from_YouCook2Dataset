@@ -1,9 +1,8 @@
-﻿﻿﻿7 mins video - https://www.youtube.com/watch?v=PTgdWWK25PQ
+﻿﻿﻿﻿﻿7 mins video - https://www.youtube.com/watch?v=PTgdWWK25PQ
 
 Object Action Duration Task Order
 
 What should be done to the celery at first ?
-
 Action
 
 The celery should be cut first 
@@ -15,7 +14,6 @@ The celery should be Squashed first
 The celery should be Squizzed first
 
 What should be used to cut the celery ?
-
 Action 
 
 You should use a cutting machine to cut the celery
@@ -27,7 +25,6 @@ miso strainor
 Folk 
 
 Where should the celery be put after being cut ?
-
 Action
 
 The celery should be put in a small dish 
@@ -39,7 +36,6 @@ The celery should be put in a small dish
 The celery should be put in a plate 
 
 What size of onions should be added to the mixture ?
-
 Object
 
 2 medium onions should be added to the mixture 
@@ -51,8 +47,7 @@ Options :
 2 large onions can be added to the mixture
 
 Where should be the mixture of vegetables be transferred  to when now cut and mixed?
-
-Action
+Object
 
 The mixture of vegetables should be transferred to a pressure cooker 
 
@@ -63,18 +58,16 @@ The mixture of the vegetables should be put in a oven
 The mixture of the vegetables should be put in a charcoal grill
 
 When should you add the beans to the vegetable mixture ?
-
 Task Order
 
-The beans should be added when the vegetables are ready and steaming 
+The beans should be added after the vegetables are ready and steaming 
 
 Options:
-When the vegetables are dark brown in color 
+When the vegetables after have changed color to dark brown 
 When the vegetables have changed color to golden brown in color  
 When the vegetables are now releasing the good smell from the steam 
 
 How many cups of water should be added ?
-
 Action
 
 4 cups of water should be added 

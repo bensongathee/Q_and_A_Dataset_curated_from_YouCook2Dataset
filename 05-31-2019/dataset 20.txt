@@ -1,9 +1,8 @@
-﻿5 mins video - https://www.youtube.com/watch?v=0Q2k-EJCriQ
+﻿﻿5 mins video - https://www.youtube.com/watch?v=0Q2k-EJCriQ
 
 Object Action Duration Task Order
 
 How many tablespoons of canola oil are needed for meat filling?
-
 Action
 
 2 tablespoons of canola oil are needed for meat filling
@@ -15,7 +14,6 @@ Options:
 7 tablespoons of canola oil are needed 
 
 What amount of tomatoes are required for the meat filling?
-
 Action
 
 400g of chopped tomatoes are required 
@@ -27,7 +25,6 @@ Options:
 3kg of chopped tomatoes are required
 
 For the mash topping what amount of the potatoes is required ?
-
 Action 
 
 For the mash topping 900g of the potatoes is required
@@ -39,7 +36,6 @@ For the mash topping 3kg of the potatoes is required
 For the mash topping 4kg of the potatoes is required
 
 When do you add the carrots in the pan ?
-
 Task Order 
 
 You add the carrots in the pan after adding onion 
@@ -51,7 +47,6 @@ You add the carrots in the pan after adding the tomatoes
 You add the carrots in the pan after adding parsley 
 
 When do you add the mince to the pan?
-
 Task order 
 
 You add the mince to the pan after adding the celery
@@ -63,7 +58,6 @@ You add the mince to the pan after adding parsley
 You add mince to the pan after adding canola oil 
 
 When do you add the rosemary ?
-
 Task Order
 
 You add the rosemary before adding the stock 
@@ -75,7 +69,6 @@ You add the rosemary after adding carrots
 You add the rosemary after adding the celery 
 
 What do you use to spread the mashed potatoes on top of the cooked vegetables?
-
 Object
 
 You use a spatula to spread the mashed potatoes on top of the cooked vegetables 

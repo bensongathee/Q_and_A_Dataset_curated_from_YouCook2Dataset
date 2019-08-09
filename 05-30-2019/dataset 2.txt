@@ -1,9 +1,8 @@
-﻿﻿﻿﻿7 mins video - https://www.youtube.com/watch?v=jEo9VXYVrxs
+﻿﻿﻿﻿﻿7 mins video - https://www.youtube.com/watch?v=jEo9VXYVrxs
 
 Object Action Duration Task Order 
 
 What kind of Mayonnaise should be added ?
-
 Object 
 
 Real full fat mayonnaise should be added 
@@ -15,7 +14,6 @@ Egg mayonnaise should be used
 Olive oil mayonnaise should be used
 
 What do we use to add Dijon mustard ?
-
 Object 
 
 We use a teaspoon to add Dijon mustard
@@ -28,7 +26,6 @@ A folk is used to add the Dijon mustard
 
 
 What do we use to add sugar ?
-
 Object
 
 We use a tablespoon to add sugar 
@@ -40,7 +37,6 @@ Spatula
 Hands 
 
 What amount of sugar should be added into the mixture ?
-
 Action
 
 You should add 2 tablespoons of sugar into the mixture
@@ -52,7 +48,6 @@ Options:
 5 and a half tablespoons of sugar
 
 What should you use to mix the vegetables with the mixture ?
-
 Object 
 
 You should use a spatula to mix the vegetables with the mixture 
@@ -65,7 +60,6 @@ Folk
 Knife
 
 When do you put the mixture while preparing macaroni ?
-
 Task order
 
 You put the mixture into the refrigerator while preparing macaroni 
@@ -77,7 +71,6 @@ You put the mixture in the Oven(without switching on the oven) while preparing t
 You put the mixture in the Kitchen Shelf while preparing the macaroni
 
 What amount of macaroni should be cooked ?
-
 Action
 
 4 cups of macaroni should be cooked 

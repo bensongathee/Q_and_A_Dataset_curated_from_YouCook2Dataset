@@ -1,9 +1,8 @@
-﻿﻿﻿﻿﻿6 mins video - https://www.youtube.com/watch?v=nfO0YS2dSdw
+﻿﻿﻿﻿﻿﻿﻿6 mins - https://www.youtube.com/watch?v=nfO0YS2dSdw
 
 Object Action Duration Task Order
 
 What type of oil is used ?
-
 Object
 
 Olive oil is used
@@ -15,7 +14,6 @@ Sunflower oil
 Vegetable oil
 
 For how long should you wait until the onions are ready ? 
-
 Action
 
 You should wait for 4 minutes until the onions are ready with a golden brown color
@@ -27,7 +25,6 @@ You can wait for 6 minutes
 You can wait for 7 minutes
 
 What shape of potatoes are required ?
-
 Action 
 
 The shape of potatoes should be in a cubed shape 
@@ -39,7 +36,6 @@ The shape of potatoes can be in a circular shape
 The shape of the potatoes can be in a hexagon shape 
 
 When do you do you crank up the heat of the heater to medium high ?
-
 Task Order 
 
 You crank up the heat of the heater to medium high after you add the potatoe cubes into the mixture
@@ -53,7 +49,6 @@ You can crank up the heat of the heater to medium high when you add the salari
 You can crank up the heat of the heater to medium high when you add the clam juice
 
 How should be the potatoes be cooked?
-
 Action
 
 The potatoes should be cooked until they are almost tender 
@@ -65,7 +60,6 @@ The potatoes should be cooked until they are black in color
 The potatoes should be cooked until they are dark brown
 
 What do you do if you want the soup to become thick ?
-
 Action
 
 You smash the potatoes if you want the soup to become thick
@@ -77,7 +71,6 @@ You add more onion if you want the soup to become thick
 You add more sweet paper if you want the soup to become thick
 
 What do you do to the soup mixture once you splash some cream ?
-
 Action 
 
 You stirer the soup mixture once you splash some cream 

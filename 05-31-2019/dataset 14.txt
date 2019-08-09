@@ -1,9 +1,8 @@
-﻿﻿10 mins video - https://www.youtube.com/watch?v=2Rn2tM9Rgg8
+﻿﻿﻿10 mins video - https://www.youtube.com/watch?v=2Rn2tM9Rgg8
 
 Object Action Duration Task Order
 
 What sort of peanuts should be used ?
-
 Object
 
 Roasted peanuts should be used 
@@ -15,7 +14,6 @@ Sun dried peanuts can be used
 refrigerated peanuts can be used
 
 What heat is required to make the sauce ?
-
 Action
 
 Medium heat is required to make the sauce 
@@ -27,7 +25,6 @@ Very low heat is required to make the sauce
 Extreme heat is required to make the sauce
 
 What do we add to the pan first ?
-
 Action
 
 We first add cameran sauce to the pan 
@@ -39,7 +36,6 @@ We first add garlic to the pan
 We first add onion to the pan 
 
 How much cameran sauce do you use ?
-
 Action 
 
 You use 1 cup of cameran sauce  
@@ -51,7 +47,6 @@ You use 4 cups of cameran sauce
 You use 5 cups of cameran sauce 
 
 When will you stop stirring the  mixture of the sauce ?
-
 Task Order
 
 You will stop stirring the mixture of the sauce when the sugar starts to melt 
@@ -63,7 +58,6 @@ You will stop stirring the mixture of the sauce when the fish sauce changes colo
 You will stop stirring the mixture of the sauce when the cameran sauce dessolves 
 
 What do you add to the pan once it is hot ?
-
 Object 
 
 You add oil to the pan once it is hot ?
@@ -76,7 +70,6 @@ You add vinegar to the pan once it is hot
 You add fish sauce to the pan once it is hot 
 
 How many tablespoons of oil should be added to the pan ?
-
 Action 
 
 3 tablespoons of oil should be added 

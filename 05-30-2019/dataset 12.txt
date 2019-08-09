@@ -1,9 +1,8 @@
-﻿﻿﻿﻿﻿3 mins video https://www.youtube.com/watch?v=trSnVJI6Q-k
+﻿﻿﻿﻿﻿﻿3 mins -https://www.youtube.com/watch?v=trSnVJI6Q-k
 
 Object Action Duration Task Order
 
 What amount of onion is added to the pan ?
-
 Action 
 
 Half an onion is added to the pan 
@@ -15,7 +14,6 @@ Options:
 5 onions are added to the pan 
 
 How many claws of garlic are required?
-
 Action 
 
 4 claws of garlic are required
@@ -27,7 +25,6 @@ Options:
 14 claws of garlic are required
 
 Where do you put the cholk meat ?
-
 Object
 
 You put the cholk meat in a big bowl
@@ -39,7 +36,6 @@ You put the cholk meat in a cup
 You put the cholk meat in a miso strainor
 
 What do you use to mix the old Italian bread ?
-
 Object
 
 You use your hands to squiz the old Italian bread
@@ -51,7 +47,6 @@ You use a tablespoon to mix the old Italian bread
 You use a teaspoon  to mix the old Italian bread
 
 What kind of pepper should be used ?
-
 Object
 
 Black pepper should be used 
@@ -63,7 +58,6 @@ Italian spice can be used
 Hungarian spice can be used 
 
 How many eggs should be added into the mixture ?
-
 Action
 
 2 eggs should be added into the mixture
@@ -75,7 +69,6 @@ Options:
 10 eggs should be added into the mixture
 
 Why should you not put the meat balls too close to each other when now cooking them ?
-
 Action
 
 You should not put the meat balls too close to each other because they expand as you cook them
@@ -87,7 +80,6 @@ You should not put the meat balls too close to each other because they will form
 You should not put the meat balls too close to each other because they will form a orange color soup 
 
 When do you add add the eggs into the mixture of ingredients ?
-
 Task Order 
 
 You add the eggs soon after adding crashed up black pepper 

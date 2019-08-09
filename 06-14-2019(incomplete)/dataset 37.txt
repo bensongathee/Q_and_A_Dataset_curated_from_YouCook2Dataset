@@ -1,0 +1,99 @@
+﻿﻿9 mins - https://www.youtube.com/watch?v=2iWUUcW08ac
+
+Object Action Duration Task Order
+
+Which fruit is used to make a pancake?
+Object 
+
+Bananas are used to make pancakes
+
+Options:
+Oranges are used to make pancakes
+Pineapple are used to make pancakes
+Mangoes are used to make pancakes
+Lemons are used to make pancakes
+
+What do you do to the dry ingredients?
+Action
+
+You seif the dry ingredients 
+
+Options:
+You cut the dry ingredients
+You grill the dry ingredients
+You brown the dry ingredients
+You miy the dry ingredients
+
+How many cups of flower do you start with ?
+Object
+
+You start with 2 cups of flour
+
+Options:
+
+You start with 3 cups of flour 
+You start with 4 cups of flour
+You start with 6 cups of flour 
+You start with 8 cups of flour
+
+How many tablespoons of sugar do you add ?
+Action 
+
+3 tablespoons of sugar are used 
+
+Options:
+4 tablespoons of sugar are used 
+5 tablespoons of sugar are used
+6 tablespoons of sugar are used
+7 tablespoons of sugar are used
+
+When do you add the barking soda ?
+Task order 
+
+You add the barking soda after adding the barking powder 
+
+Options:
+You add the barking soda after adding salt 
+You add the barking soda before adding sugar 
+You add the barking soda before addind the bananas
+You add the barking soda after adding the milk 
+
+How many tablespoons of butter do you use to make your  wet mix ?
+Object
+
+You use 2 tablespoons of butter to make your wet mix 
+
+Options:
+You use 3 tablespoons of butter to make the wet mix
+You use 4 tablespoons of butter to make the wet mix 
+You use 5 tablespoons of butter to make the wet mix 
+You use 7 tablespoons of butter to make the wet mix
+
+How many eggs will be needed ?
+Object 
+
+4 eggs  will be needed 
+
+Options:
+5 eggs will be needed 
+6 eggs will be needed
+7 eggs will be needed
+8 eggs will be need 
+
+What is done to the egg yolks? 
+Action
+
+The egg yolks are stirred up 
+
+Options: 
+The egg yolks are browned 
+The egg yolks are boiled 
+The egg yolks are mixed with parsley
+The egg yolks are added with them salt 
+
+
+
+
+
+
+

@@ -1,9 +1,8 @@
-﻿4 mins video - https://www.youtube.com/watch?v=nMKOlrklBsY
+﻿﻿4 mins video - https://www.youtube.com/watch?v=nMKOlrklBsY
 
 Object Action Duration Task Order
 
 How many types of potatoes do you want to use ?
-
 Action
 
 2 types of potatoes are used 
@@ -15,7 +14,6 @@ Options:
 6 types of potatoes are used
 
 What do you do the potatoes at first?
-
 Action 
 
 You peel of the potatoes at first
@@ -27,7 +25,6 @@ You boil the potatoes at first
 You fry the potatoes at first
 
 When do you steam the potatoes?
-
 Task Order 
 
 You steam the potatoes after peeling them and cutting them
@@ -39,10 +36,9 @@ You steam the potatoes after cutting them
 You steam the potatoes before peeling them 
 
 How many degrees Celsius are required for the steaming?
-
 Action 
 
-212°  are required for the steaming
+212° are required for the steaming
 
 Options:
 300° are required for the steaming
@@ -51,7 +47,6 @@ Options:
 600° are required for the steaming
 
 How do you cut the potatoes ?
-
 Action
 
 You cut the potatoes into halfs 
@@ -63,7 +58,6 @@ You cut the potatoes into  pieces
 You cut the potatoes into rectangular shapes 
 
 What do you use to steam the potatoes?
-
 Object
 
 You use a steamer basket to steam the potatoes 
@@ -75,7 +69,6 @@ You use a metal dish to steam the potatoes
 You use a metal bowl to steam the potatoes
 
 How many pounds of the potatoes are steamed ?
-
 Action 
 
 2 pounds of the potatoes are steamed

@@ -1,0 +1,88 @@
+﻿﻿﻿2 mins video - https://www.youtube.com/watch?v=wgv2Xz3dNO0
+
+Object Action Duration Task Order
+
+To what temperature is the oven preheated ?
+Action
+
+The oven is preheated to 325 degrees 
+
+Options:
+The oven is preheated to 280 degrees
+The oven is preheated to 240 degrees
+The oven is preheated to 230 degrees
+The oven is preheated to 430 degrees
+
+What kind of dish is used to grease with softened butter ?
+Object 
+
+You use a casserole dish 
+
+Options:
+You use a metal dish 
+You use a PVC made dish
+You use a polyester made dish 
+You use a glass made dish 
+
+How many pounds of potatoes are used ?
+Object
+
+5 pounds of potatoes are used 
+
+Options:
+6 pounds of potatoes are used
+7 pounds of potatoes are used
+8 pounds of potatoes are used
+9 pounds of potatoes are used
+
+What size of pot do you use ?
+Object
+
+A large pot is used
+
+Options:
+A small pot is used
+A semi small pot is used 
+A very small pot is used 
+A medium pot is used 
+
+To what state do you cook the potatoes?
+Action
+
+You cook the potatoes to tender state 
+
+Options:
+You cook the potatoes to a dark brown color 
+You cook the potatoes to a golden brown color 
+You cook the potatoes until they are steaming
+You cook the potatoes until they are broken they are broken into pieces 
+
+When do you drain the potatoes?
+Task order
+
+You drain the potatoes after they are tender 
+
+Options:
+You drain the potatoes once they are crushed
+You drain the potatoes once they are salted 
+You drain the potatoes once after they are brown in color
+You drain the potatoes once aftet they are golden brown in color
+
+Where are the drained potatoes transferred to ?
+Object
+
+The drained  potatoes are transferred to a large bowl 
+
+Options:
+The drained potatoes are transferred to a metal dish 
+The drained potatoes are transferred to a cup 
+The drained potatoes are transferred to a cup 
+The drained potatoes are transferred to a bottle
+
+
+
+
+
+
+
+

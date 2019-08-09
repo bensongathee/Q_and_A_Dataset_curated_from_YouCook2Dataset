@@ -1,9 +1,8 @@
-﻿7 mins video - https://www.youtube.com/watch?v=r9AtdDfDVmo
+﻿﻿7 mins -https://www.youtube.com/watch?v=r9AtdDfDVmo
 
 Object Action Duration Task Order
 
 To what temperature should the oven be turned to?
-
 Action
 
 The oven should be turned to 400 degrees
@@ -15,7 +14,6 @@ The oven should be turned to 700 degrees
 The oven should be turned to 900 degrees
 
 What do you first do to the meat ?
-
 Action
 
 You first slice the meat 
@@ -27,7 +25,6 @@ You first spice the meat
 You first refrigerate theat 
 
 How many claws of garlic are required?
-
 Object
 
 2 claws of garlic are required
@@ -39,7 +36,6 @@ Options:
 6 claws of garlic are required
 
 When is the cucumber sliced ?
-
 Task Order
 
 The cucumber is sliced after the dressing of the vegetables is completed 
@@ -51,7 +47,6 @@ The cucumber is sliced after Browning the meat
 The cucumber is sliced after seasoning
 
 How many times are you going to deep fry the meat ?
-
 Action
 
 You are going to deep fry the meat twice
@@ -63,7 +58,6 @@ You are going to deep fry the meat 5 times
 You are going to deep fry the meat 6 times 
 
 When do you increase the heat from medium to medium high ?
-
 Task Order 
 
 You increase the heat from medium to medium after the first fry 
@@ -75,7 +69,6 @@ You increase the heat from medium to medium high after the fifth fry
 You increase the heat from medium to medium high after the sixth fry 
 
 What do you add first to the bread when you cut it open?
-
 Object
 
 You add mayonnaise first to the bread when you cut it open 
