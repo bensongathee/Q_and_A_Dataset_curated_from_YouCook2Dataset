@@ -1,0 +1,73 @@
+﻿﻿﻿3 mins video - https://www.youtube.com/watch?v=wgMqKUqaW-w
+
+Object,Action,Duration,Task Order
+
+How many tablespoons of olive oil do you need ?
+Object
+2 tablespoons of olive oil is needed
+
+Options:
+3 tablespoons of olive oli is needed 
+4 tablespoons of olive oil is needed 
+5 tablespoons of olive oil is needed
+6 tablespoons of olive oil is needed
+
+What kind of meat is required ?
+Object
+Beef is required
+
+Options:
+Lamb meat is required
+Pork meat is required
+Chicken meat is required
+Fish is required
+
+How many clows of garlic do you use ?
+Object
+You use 5 cloves of garlic 
+
+Options:
+You use 6 cloves of garlic 
+You sue 7 cloves of garlic 
+You sure 8 cloves of garlic
+You use 9 cloves of garlic
+
+Where do you put your olive oil ?
+Object
+You put your olive oil in a skillet 
+
+Options:
+You put your olive oil in a cup
+You put your Olive oil in a saucer
+You put your olive oil in a glass bowl 
+You put your olive oil in a metal dish
+
+When do you put olive oil in a skillet?
+Task Order
+You put olive oil in a skillet after the beef is now added with it the mixture of chilli and cumin 
+
+Options:
+You put the olive oil in a skillet before adding the mixture of chilli and cumin powder to the beef 
+You put the olive oil in a skillet after adding salt to the beef 
+You put the olive oil in a skillet after adding butter to the beef 
+You put the olive oil in a skillet after after adding black pepper to the beef
+
+How do you cook the beef ?
+Action
+You sear the beef for about 2 minutes on each side 
+
+Options:
+You sear the beef for about 3 minutes
+You sear the beef for about 4 minutes
+You sear the beef for about 5 minutes
+You sear the beef for about 11 minutes
+
+When do you put the meat in the button of the crock pot ?
+Task Order
+You put the meat in the button of the crock pot after the meat has been browned on both sides
+
+Options: 
+You put the  meat in the bottom of the crock pot after the meat has been boiled
+You put the meat in the bottom of the crock pot after the meat has been salted 
+You put the meat in the bottom of the crock pot before the meat has been spiced 
+You put the meat in the button of the crock meat before the meat is browned on one side  

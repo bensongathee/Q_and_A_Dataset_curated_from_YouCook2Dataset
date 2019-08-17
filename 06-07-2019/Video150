@@ -1,0 +1,76 @@
+﻿5 mins video - https://www.youtube.com/watch?v=arQZ2m0hMSU
+
+Object, Action, Duration, Task Order
+
+How many tablepoons of Olive oil is needed ?
+Action
+2 tablespoons of olive oil is needed 
+
+Options:
+4 tablespoons of olive oil is needed
+5 tablespoons of olive oil is needed
+6 tablespoons of olive oil is needed
+7 tablespoons of olive oil is needed
+
+What type of meat is used ?
+Object
+Mutton is used 
+
+Options:
+Beef is used
+Pork is used
+Chicken is used 
+Lamb meat is used 
+
+How many green chilli peppers are used ?
+Object
+5-6 green chilli peppers are used 
+
+Options:
+8-9 green chilli peppers are used 
+9-10 green chilli peppers are used 
+11-12 green chilli peppers are used 
+12-13 green chilli peppers are used
+
+What kind of spice do you add to water ?
+Object
+Indian curry spice is added to water 
+
+Options:
+Cumin spice is added to water 
+Chinese spice is added to water 
+Yellow spice is added to water 
+Black spice is added to water 
+
+When do you put the cloves of garlic in the pan ?
+Task Order
+You put the cloves of garlic in the pan after adding oil to the pan
+
+Options:
+You put the cloves of garlic in the pan after adding the onion 
+You put the cloves of garlic in the pan after adding the spice 
+You put the cloves of garlic in the pan after adding the green chilli peppers
+You put the cloves of garlic in the pan before adding the olive oil 
+
+What do you add after adding the cloves of garlic to the pan?
+Object
+You add the onion and the green chilli peppers to the pan 
+
+Options:
+You add spice after adding cloves of garlic to the pan
+You add mutton after adding cloves of garlic to the pan 
+You add tomatoes after adding the cloves of garlic to the pan 
+You add cumin after adding cloves of garlic to the pan 
+
+When do you add your mutton into the pan ?
+Task Order
+You add your mutton into the pan after adding the onions and the green chilli peppers into the pan 
+
+Options:
+You add your mutton into the pan before adding oil 
+You add mutton into the pan before adding cloves of garlic
+You add mutton into the pan after adding salt to the pan 
+You add mutton into the pan after adding Indian curry spice
+
+
+

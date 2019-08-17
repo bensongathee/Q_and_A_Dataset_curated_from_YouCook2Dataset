@@ -1,0 +1,73 @@
+﻿﻿﻿6 mins video - https://www.youtube.com/watch?v=5E3kulJRzGY
+
+Object,Action,Duration,Task Order
+
+What is the first mixture to be made ?
+Action
+First the spice mixture is made 
+
+Options:
+First the sauce mixture is made 
+First the milk mixture is made
+First the pepper mixture is made
+First the celery mixture is made
+
+What amount of cumin seeds are added to make the spice mixture?
+Action
+You add half a teaspoon of cumin seeds
+
+Options:
+You add 2 tablespoons of cumin seeds
+You add 3 teaspoons of cumin seeds 
+You add 5 teaspoons of cumin seeds
+You add 6 tablespoons of cumin seeds
+
+For how long will you soak all the ingredients in the spice mixture ?
+Action
+You will soak the all the ingredients for the spice mixture for 30 minutes
+
+Options:
+You will soak all the ingredients for the spice mixture for 45 minutes
+You will soak all the ingredients for the spice mixture for 2 hours
+You will soak all the ingredients for the spice for 3 hours 
+You will soak all the ingredients for the spice mixture for 4 hours
+
+What do you add first to the lamb meat ?
+Object
+You add salt to the lamb meat
+
+Options:
+You add cumin spice to the lamb meat 
+You add pepper to the lamb meat
+You add garlic to the lamb meat 
+You add parsely to the lamb meat
+
+What do we add to the lamb meat after 1 hour ?
+Object
+You add chilli paste to lamb meat after 1 hour 
+
+Options: 
+You add coconut oil to the lamb meat after 1 hour 
+You add  add red pepper flakes to the lamb meat
+You add yellow pepper to the lamb meat 
+You add orange pepper to the lamb meat 
+
+How long should you let the lamb meet mixed with chilli paste be let to rest?
+Action
+The lamb meet mixed with chilli paste will be allowed to rest for 3-4 hours
+
+Options:
+The lamb meat mixed with chilli paste to rest will be allowed to rest for 5-6 hours
+The lamb meat will be allowed to rest for 6-7 hours 
+The lamb meat will be allowed to rest for 8-9 hours 
+The lamb meat will be allowed to rest for 9-10 hours  
+
+When do you cook the meat ?
+Task order 
+You cook the meat after it has marinated for 4 hours 
+
+Options:
+You cook the meat after it has been marinated for 3 hours
+You cook the meat after it has been marinated for 6 hours 
+You cook the meat after it has been marinated for 9 hours 
+You cook the meat after it has been marinated for 10 hours

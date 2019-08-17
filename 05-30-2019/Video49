@@ -1,0 +1,73 @@
+﻿﻿6 mins video - https://www.youtube.com/watch?v=COKrOqleb1k
+
+Object,Action,Duration,Task Order
+
+How many cups of flour do you add to the mixing bowl ?
+Action
+You add 4 cups of flour to the mixing bowl
+
+Options:
+You add 5 cups of flour to the mixing bowl
+You add 6 cups of flour to the mixing bowl 
+You add 7 cups of flour to the mixing bowl 
+You add 8 cups of flour to the mixing bowl
+
+What do you add to the flour in the bowl ?
+Object
+You add salt to the flour in the bowl 
+
+Options:
+You add spice to the flour 
+You add cumin to the flour
+You add pepper to the flour 
+You add soy to the flour 
+
+When do you add the butter to the bowl ?
+Task Order
+You add butter after adding oil to the bowl
+
+Options:
+You add butter before adding oil to the bowl
+You add butter before adding salt to the bowl 
+You add butter before adding flour to the bowl 
+You add butter after adding sugar to the bowl 
+
+When do you stop mixing the mixture?
+Task Order
+You stop mixing the dour when a soft dour has been formed 
+
+Options:
+You stop mixing the dour when a golden brown color forms
+You stop mixing the dour when a yellow color forms
+You stop mixing the dour when the dour is now hard 
+You stop mixing the dour when the dour has completely dissolved the ingredients
+
+What do you use to soften the dour ?
+Object
+You use your hands to soften your dour 
+
+Options:
+You use a knife to soften your dour 
+You use a tablespoon to soften your dour
+You use a folk to soften your dour 
+You use a teaspoon to soften your dour 
+
+Where do you put the soft dour after removing it from the bowl ?
+Object
+You put the soft dour in a smooth table 
+
+Options:
+You put the soft dour in a cup 
+You put the soft dour in a dish 
+You put the soft dour in a bowl 
+You put the soft dour in a plate
+
+What do you add onto your working surface ?
+Object 
+You add a little flour onto your working surface 
+
+Options:
+You add little salt onto your working surface
+You add little sugar onto your working surface
+You add little spice onto your working surface
+You add little cumin onto your working surface

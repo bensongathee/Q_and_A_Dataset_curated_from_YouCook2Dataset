@@ -1,0 +1,73 @@
+﻿﻿﻿﻿2 mins video - https://www.youtube.com/watch?v=4Zl5NvXPi
+
+Object,Action,Duration,Task Order
+
+What sauce is made at first ?
+Action
+Bachamel sauce is made at first 
+
+Options:
+Mushroom sauce is made at first 
+Tomatoe sauce is made at first 
+Mustard sauce is made at first 
+Chip sauce is made at first 
+
+Where is the bachamel sauce cooked in ?
+Object
+The bachamel saace is cooked in a hot pot
+
+Options:
+The bachamel sauce is cooked in pan 
+The bachamel sauce is cooked in a metal dish 
+The bachamel sauce is cooked in a metal cup 
+The bachamel sauce is cooked in a very big pot
+
+What do you do after adding flour to the pot?
+Action
+You stirer the mixture after adding flour to the pot 
+
+Options:
+You boil the mixture after adding flour 
+You grill the mixture after adding flour 
+You cut onion after adding flour 
+You cut tomatoes after adding flour 
+
+When do you add permasan ?
+Task order
+You add permasan after the mixture has started simmering
+
+Options:
+You add permasan before the mixture has started boiling 
+You added permasan after the mixture has started changing color to dark brown 
+You add permasan before adding pepper to the mixture 
+You add permasan after adding soy oil
+
+What heat is set aside when the permasan and the gruyere cheese has melted?
+Action
+A low heat is set aside 
+
+Options:
+A high heat is set aside 
+A medium high heat is set aside
+A very low heat is set aside 
+Extreme high heat is set aside
+
+Where do you put the butter ?
+Object
+You put the butter on the grill 
+
+Options:
+You put the butter in the oven
+You put the butter in a pressure cooker
+You put the butter in a refrigerator
+You put the butter in a cool dry kitchen shelf 
+
+What is done to the ham ?
+Action
+The ham is grilled 
+
+Options:
+The ham is cut into very small pieces 
+The ham is boiled 
+The ham is toasted with bread 
+The ham is refrigerated

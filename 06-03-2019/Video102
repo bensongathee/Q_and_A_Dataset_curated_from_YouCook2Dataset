@@ -1,0 +1,73 @@
+﻿﻿﻿﻿4 mins video - https://www.youtube.com/watch?v=9IFz5ZBgeL4
+
+Object,Action,Duration,Task Order
+
+How many bowls of cooked rice are needed ?
+Object
+2 bowls of cooked rice are needed 
+
+Options:
+3 bowls of cooked rice are needed
+4 bowls of cooked rice are needed
+5 bowls of cooked rice are needed 
+6 bowls of cooked rice are needed
+
+What kind of oil is required ?
+Object
+Olive oil is required
+
+Options:
+Coconut oil is required
+Ovacado oil is required
+Sunflower oil is required
+Bean oil is required
+
+How many eggs do you broken in a bowl?
+Action
+2 eggs are broken in a bowl 
+
+Options:
+4 eggs are broken in a bowl
+5 eggs are broken in a bowl
+6 eggs are broken in a bowl 
+7 eggs are broken in a bowl 
+
+When do you make the fried rice ?
+Task order
+You make the fried rice after cutting the tomatoes
+
+Options:
+You make the fried rice before cutting onion
+You make the fried rice before add pepper to the bowl 
+You make fried rice after the eggs have been fried 
+You make fried rice before salt have been added 
+
+How many tablespoons of olive oil do you add into the pan ?
+Action
+You add 2 tablespoons of olive oil into the pan 
+
+Options:
+You add 3 tablespoons of olive oil into the pan 
+You add 4 tablespoons of olive oil into the pan 
+You add 5 tablespoons of olive oil into the pan
+You add 6 tablespoons of olive oil into the pan 
+
+When do you add the bell pepper ?
+Task order
+You add the bell pepper after adding the eggs 
+
+Options:
+You add the bell pepper after adding the eggs 
+You add the bell pepper before adding olive oil 
+You add the bell pepper after adding the cumin
+You add the bell pepper after adding the spice
+
+For how long do you stirer the mixture ?
+Action
+You stirer the mixture for 2-3 minutes
+
+Options:
+You stirer the mixture for 3-4 minutes
+You stirer the mixture for 5-6 minutes
+You stirer the mixture for 8-9 minutes
+You stirer the mixture for 10-11 minutes

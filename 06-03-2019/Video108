@@ -1,0 +1,73 @@
+﻿﻿﻿﻿5 mins video - https://www.youtube.com/watch?v=bIAZtDBQnjl
+
+Object,Action,Duration,Task Order
+
+How long does it take to prepare the miso soup ?
+Duration
+You take 10 minutes to prepare the miso soup
+
+Options:
+You take 20 minutes to prepare the miso soup 
+You take 30 minutes to prepare the miso soup 
+You take 40 minutes to prepare the miso soup 
+You take 55 minutes to prepare the miso soup
+
+What type of beans are used ?
+Object
+Marble beans are used 
+
+Options:
+Sugar beans are used 
+Green beans are used 
+White beans are used 
+Yellow beans are used 
+
+What do you add first to our boiling water ?
+Object
+You add miso soup paste first to our boiling water 
+
+Options:
+You first add salt to the boiling water 
+You first add soy to the boiling water 
+You first add the marble beans to the water 
+You first add the mushrooms to the water 
+
+What do we add after adding miso soup paste ?
+Object
+You add vegetable stock after adding miso soup paste 
+
+Options:
+You add marble beans after adding miso soup 
+You add mushrooms after adding miso soup paste
+You add spice after adding miso soup paste 
+You add parsely after adding miso soup 
+
+When do you add the mirin and the soy ?
+Task order
+You add the mirin and the soy after adding stock 
+
+Options:
+You add the mirin and the soy after adding salt 
+You add the mirin and the soy after adding parsley
+You add the mirin and the soy after adding the celery
+You add the mirin and the soy after adding the soup 
+
+How many tablespoons of mirin should you add ?
+Action
+You add 2 tablespoons of mirin 
+
+Options:
+You add 3 tablespoons of mirin 
+You add 4 tablespoons of mirin 
+You add 5 tablespoons of mirin 
+You add 6 tablespoons of mirin 
+
+What do you add after adding mirin?
+Object
+You add soy after adding the mirin
+
+Options:
+You add salt after adding mirin 
+You add butter after adding mirin 
+You add spice after adding mirin
+You add pepper after adding mirin 

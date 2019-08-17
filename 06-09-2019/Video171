@@ -1,0 +1,73 @@
+﻿4 mins video - https://www.youtube.com/watch?v=1dla_dJUxro
+
+Object, Action, Duration, Task Order
+
+How many grams of cornflour do you need ?
+Action
+80g of cornflour is needed
+
+Options:
+90g of cornflour is needed
+100g of cornflour is needed
+250g of cornflour is needed
+300g of cornflour is needed
+
+How many teaspoons of spakin powder are needed ?
+Object
+3 teaspoons of spakin powder are needed 
+
+Options:
+4 teaspoons of spakin powder are needed 
+5 teaspoons of spakin powder are needed 
+6 teaspoons of spakin powder are needed
+7 teaspoons of spakin powder are needed 
+
+What kind of milk will be needed ?
+Object
+Soy milk will be needed 
+
+Options:
+Full cream milk will be needed
+Palmalart milk will be needed
+Sour milk will be needed
+Dairyboard milk will be needed 
+
+Where do you mix the different types of flours and the spices ?
+Object
+You mix the different types of flour and the spices in a bowl 
+ 
+Options:
+You add the different types of flour and the spices in a dish 
+You add the different types of flour and the spices in a cup
+You add the different types of flour and the spices in a pot
+You add the different types of flour and the spices in a jar 
+
+When do you add the soya milk in the bowl ?
+Task Order
+You add the soya milk in the bowl after adding the different types of flour and the spices
+
+Options:
+You add the soya milk in the bowl after adding water 
+You add soya milk in the bowl after adding salt 
+You add soya milk in th bowl before adding the cumin 
+You add beef milk in the bowl before adding sugar 
+
+When do you stop mixing?
+Action
+You stop mixing until a smooth dour is formed
+
+Options:
+You stop mixing until a brown color forms 
+You stop mixing until a dark grey color forms 
+You stop mixing until a yellow grey color forms 
+You stop mixing until a blue color forms 
+
+When do you cut the tofu ?
+Task Order
+You cut the tofu when the dough has formed 
+
+Options:
+You cut the tofu when the dough hasn't formed 
+You cut the tofu when the yellow color forms 
+You cut the tofu when the brown color forms
+You cut the tofu when the brown color forms

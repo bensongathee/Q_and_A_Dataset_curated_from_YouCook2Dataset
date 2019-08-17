@@ -1,0 +1,73 @@
+﻿﻿﻿7 mins video - https://www.youtube.com/watch?v=zmEyQT7ifS8
+
+Object,Action,Duration,Task Order
+
+What kind of tomatoes do you use ?
+Object
+You use cherry tomatoes
+
+Options:
+You use yellow tomatoes
+You use orange tomatoes
+You use green tomatoes
+You use soy tomatoes
+
+What kind of meat do we use ?
+Object
+You use chicken meat
+
+Options:
+You use beef meat 
+You use pork meat 
+You use fish meat 
+You use lamb meat 
+
+Where do you put the chicken breasts?
+Object
+You put the chicken breasts in a pan 
+
+Options:
+You put the chicken breasts in a cup 
+You put the chicken breasts in a dish 
+You put the chicken breasts in a pot 
+You put the chicken breasts in a plate 
+
+What do you do to the chunk of pamarsen ?
+Action
+You grate the chunk of pamarsen
+
+Options:
+You boil the chunk of pamarsen
+You deep fry the chunk of pamarsen 
+You salt the chunk of parmesan
+You spice the chunk of parmesan
+
+How much heat do we need to heat the grated Parmesan?
+Action
+180° are needed
+
+Options:
+500° are needed
+550° are needed 
+600° are needed
+700° are needed
+
+What do we do to the ciabatta loaf ?
+Action
+You slice the ciabatta loaf 
+
+Options:
+You grill the ciabatta loaf
+You dry the ciabatta loaf 
+You boil the ciabatta loaf
+You add spice to the ciabatta loaf 
+
+Which part of the egg do we use ?
+Object
+We use the yolk 
+
+Options:
+We use the albumen part
+We use the white layer 
+We use the egg shells
+We use the egg hunt

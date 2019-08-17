@@ -1,0 +1,65 @@
+﻿11 mins video - https://www.youtube.com/watch?v=p2wkeNmzlJ0
+
+Object, Action, Duration, Task Order
+
+How many slices of bread do you use ?
+Object
+2 slices of bread are used 
+
+Options:
+3 slices of bread are used 
+4 slices of bread are used 
+5 slices of bread are used
+6 slices of bread are used 
+
+What texture should the bread be ?
+Object
+The bread should be soft 
+
+Options:
+The bread should be hard 
+The bread should strictly be brown 
+The bread should strictly be white 
+The bread should be very soft
+
+Where do you process the fresh pieces of bread ?
+Object
+You process the fresh pieces of bread in a food processor
+
+Options:
+You process the fresh pieces of bread in an electronic stove 
+You process the fresh pieces of bread in a gas stove 
+You process the fresh pieces of bread in the grill
+You process the fresh pieces of bread in the oven 
+
+For How long do you process the fresh breadcrumbs?
+Action
+You process the fresh breadcrumbs for about 10 seconds
+
+Options:
+You process the fresh breadcrumbs for about 20 seconds
+You process the fresh breadcrumbs for about 30 seconds
+You process the fresh breadcrumbs for about 40 seconds
+You process the fresh breadcrumbs for about 3 minutes
+
+Where do you put the crumbs after processing them?
+Object
+You put the crumbs in a bowl after processing them
+
+Options:
+You put the crumbs in a dish after processing them
+You put the crumbs in a cup after processing them
+You put the crumbs in a pot after processing them
+You put the crumbs in a pan after processing them
+
+What amount of milk is added to the bread crumbs?
+Action
+1/3 cup of milk is added to the bread crumbs
+
+Options:
+2/3 cup of milk is added to the bread crumbs
+3/4 cup of milk is added to the bread crumbs
+3/5 cup of milk is added to the bread crumbs
+2 cups of milk are added to the bread crumbs
+
+ 

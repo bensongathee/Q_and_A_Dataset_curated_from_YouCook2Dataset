@@ -1,0 +1,75 @@
+﻿﻿﻿3 mins video - https://www.youtube.com/watch?v=TFJ6oR89Vb8
+
+Object,Action,Duration,Task Order
+
+How many fresh eggs are needed ?
+Object
+3 fresh eggs are needed 
+
+Options:
+4 fresh eggs are now added 
+5 fresh eggs are now added 
+6 fresh eggs are now added 
+7 fresh eggs are now added 
+
+What type of pepper is added to the eggs ?
+Action
+Red pepper is added to the eggs 
+
+Options:
+Yellow pepper is added to the eggs 
+Green pepper is added to the aggs 
+Orange pepper  is added to the eggs
+Black pepper is added to the eggs 
+
+What heat do you put for the pan ?
+Action
+You put the pan on high heat 
+
+Options:
+You put the heat on low heat
+You put the heat on medium heat 
+You put the heat on very low heat 
+You put the heat on extreme high heat
+
+What kind of oil do you put in the pan ?
+Object
+You put olive oil in the pan
+
+Options:
+You put coconut oil in the pan
+You put sunflower oil in the pan 
+You put ovacado oil in the pan
+You put vegetable oil in the pan 
+
+What do you use to mix the eggs mixed with other ingredients?
+Object
+
+You use a spatula to mix the eggs and with the other ingredients 
+
+Options:
+You use a folk to mix the eggs mixed with the other ingredients
+You use a spoon to mix the eggs with the other ingredients
+You use a knife to mix the eggs mixed with the other ingredients
+You use a slotted spoon to mix the eggs with the other ingredients 
+
+Where do you put the cooked food ?
+Object
+You put the food in a plate 
+
+Options:
+You put the food in a cup 
+You put the food in a bowl 
+You put the food in a pot 
+You put the food in a metal dish 
+
+What is the last ingredient you add to the cooked food ?
+Object
+The last ingredient you add is salt 
+
+Options:
+The last ingredient you add is cumin spice 
+The last ingredient you add is spice
+The last ingredient you add is red pepper 
+The last ingredient you add is parsely
+The last ingredient you add is black pepper

@@ -1,0 +1,74 @@
+﻿﻿5 mins video - https://www.youtube.com/watch?v=yBsMxYO8fZo
+
+Object, Action, Duration,Task Order
+
+What is first done to the chicken?
+Action
+The chicken must be marinated first
+
+Options:
+The chicken must be boiled first 
+The chicken must be deep fried first
+The chicken must be salted first
+The chicken must be spiced first 
+
+How is the chicken sliced ?
+Action
+The chicken is sliced into some thin lines 
+
+Options:
+The chicken is sliced into some cubes 
+The chicken is sliced into some square shapes 
+The chicken is sliced into some triangular shapes
+The chicken is sliced into some rectangular shapes
+
+How many Chinese spices do you use?
+Action
+5 Chinese spices are used 
+
+Options:
+4 Chinese spices are used 
+1 Chinese spice is used 
+3 Chinese spices are used 
+2 Chinese spices are used 
+
+How many tablespoons of soy sauce do you add ? 
+Object
+You add 1 tablespoon of soy sauce 
+
+Options:
+You add 2 tablespoons of soy sauce 
+You add 3 tablespoons of soy sauce 
+You add 4 tablespoons of soy sauce
+You add 5 tablespoons of soy sauce
+
+When is the garlic crushed?
+Task Order
+The garlic is crushed after it has been peeled off 
+
+Options:
+The garlic is crushed before being peeled off 
+The garlic is crushed after being squeezed
+The garlic is crushed after being heated warmly
+The garlic is crushed after been roasted
+
+What do you use to mix the chicken and the spices ?
+Object
+You use your hands to mix the chicken and the spices 
+
+Options:
+You use a tablespoon to mix the chicken and the spices 
+You use a teaspoon to mix the chicken and the spices 
+You use a knife to mix the chicken and the spices 
+You use a slotted spoon to mix the chicken and the spices 
+
+What is done to the ginger ?
+Action
+The ginger is first peeled off 
+
+Options:
+The ginger is first roasted dry 
+The ginger is first cut 
+The ginger is first dried
+The ginger is first rinsed in water
+

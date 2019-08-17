@@ -1,0 +1,73 @@
+﻿﻿﻿5 mins video - https://www.youtube.com/watch?v=bFolJCDEqGw
+
+Object,Action,Duration,Task Order
+
+Where do we pour our fresh cold water ?
+Object
+We pour our fresh cold water in a bowl 
+
+Options:
+We pour our fresh cold water in a dish 
+We pour our fresh cold water in a cup 
+We pour our fresh cold water in a flask 
+We pour our fresh cold water in a saucer 
+
+What do you first add to the water ?
+Object
+You add salt to the water first 
+
+Options:
+You first add sugar to the water 
+You first add milk to the water 
+You first add cumin to the water 
+You first add spice to the water 
+
+When do you add white sugar ?
+Task Order
+You add white sugar after adding the salt
+
+Options:
+You add white sugar before adding the water
+You add the white sugar before adding the salt 
+You add the white sugar before adding olive oil 
+You add the white sugar after adding meat 
+
+What do you do next after making the brine?
+Action
+You cut the salmon after making the brine 
+
+Options:
+You refrigerate the salmon after making the brine 
+You grill the salmon after making the brine 
+You brown the salmon after making the brine 
+You salt the salmon after making the brine
+
+What do you do to the salmon ?
+Action
+You remove the skin from the salmon 
+
+Options:
+You oil the salmon 
+You hear the salmon 
+You boil the salmon 
+You rinse the salmon 
+
+How long are you going to soak the salmon in the brine ?
+Action
+You are going to soak for 3 minutes
+
+Options:
+You are going to soak for 7 minutes
+You are going to soak for 8 minutes
+You are going to soak for 10 minutes
+You are going to soak for 45 minutes
+
+Where do you put the soaked salmon ?
+Object
+You put the soaked salmon in a rack
+
+Options:
+You put the soaked salmon in a cup
+You put the soaked salmon in a dish 
+You put the soaked salmon in a plate 
+You put the saoked salmon in saucer 
